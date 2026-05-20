@@ -1,5 +1,7 @@
 # MimikkAi — Интеллект для бизнес-преимущества
 
+<img src="imgs/hero.png" alt="MimikkAi — Делегируйте рутину AI-агентам" width="600">
+
 ![24/7 — работа агентов](https://img.shields.io/badge/Работа-24%2F7-blue)
 ![0 строк кода](https://img.shields.io/badge/Код-0_строк-green)
 ![103 587+ строк обработано](https://img.shields.io/badge/Обработано_AI-103_587+-orange)
